@@ -1,5 +1,5 @@
-var isString = require("is_string"),
-    isNullOrUndefined = require("is_null_or_undefined");
+var isString = require("@nathanfaucett/is_string"),
+    isNullOrUndefined = require("@nathanfaucett/is_null_or_undefined");
 
 
 module.exports = toString;
